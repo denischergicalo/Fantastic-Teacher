@@ -10,7 +10,7 @@ At the heart of our approach is the belief that a student's enthusiasm and engag
 
 **Flow** is a mental state characterized by complete immersion, intense focus, and a sense of accomplishment during an activity. We achieve this by dynamically adjusting the difficulty of learning tasks based on the student's position in the "difficulty/skills" matrix.
 
-![Difficulty/Skills Matrix](images/difficulty_skills_matrix.jpg)
+![Difficulty/Skills Matrix](images/flow_correction.jpg)
 
 Using emotions as indicators, we determine where a student stands on the "difficulty/skills" matrix. Emotions can be recognized through camera-based analysis, allowing us to provide personalized learning experiences.
 
