@@ -6,7 +6,7 @@ The **Fantastic Teacher** project, founded in 2018, is dedicated to enhancing th
 
 At the heart of our approach is the belief that a student's enthusiasm and engagement are essential for effective learning. We strive to help students achieve a state of flow, where their skills align with the complexity of the task at hand. 
 
-![Flow](images/flow.jpg)
+![Flow](images/flow.png)
 
 **Flow** is a mental state characterized by complete immersion, intense focus, and a sense of accomplishment during an activity. We achieve this by dynamically adjusting the difficulty of learning tasks based on the student's position in the "difficulty/skills" matrix.
 
